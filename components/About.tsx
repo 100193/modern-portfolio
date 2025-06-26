@@ -30,7 +30,7 @@ export default function About() {
 
           setTimeout(() => {
             animateCounter("projects", 10)
-            animateCounter("clients", 100)
+            animateCounter("clients", 10)
             animateCounter("ideas", 25)
           }, 500)
         }
