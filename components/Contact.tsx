@@ -59,14 +59,14 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "alec.deman@example.com",
-      href: "mailto:alec.deman@example.com",
+      value: "100193@glr.nl",
+      href: "mailto:100193@glr.nl"
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+31 6 12345678",
-      href: "tel:+31612345678",
+      value: "+31 6 15222785",
+      href: "tel:+31615222785",
     },
     {
       icon: MapPin,
