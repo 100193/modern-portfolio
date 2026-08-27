@@ -59,8 +59,8 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "100193@glr.nl",
-      href: "mailto:100193@glr.nl"
+      value: "alecdeman2007@outlook.com",
+      href: "mailto:alecdeman2007@outlook.com"
     },
     {
       icon: Phone,
